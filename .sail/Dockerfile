@@ -1,1 +1,3 @@
-.devcontainer/Dockerfile
+FROM codercom/ubuntu-dev-go
+
+
